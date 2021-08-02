@@ -1,0 +1,3 @@
+# libmpv_player
+QtAppProject-mpvDemo是官方代码
+window_mpv自己写的demo
